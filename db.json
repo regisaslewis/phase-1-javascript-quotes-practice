@@ -46,14 +46,24 @@
       "author": "James Baldwin"
     },
     {
-      "id": 10,
-      "quote": "You know, failure hurts. Any kind of failure stings. If you live in the sting, you will undoubtedly fail. My way of getting past the sting is to say no, I’m just not going to let this get me down.",
-      "author": "Sonia Sotomayor"
-    },
-    {
       "id": 11,
       "quote": "The here and now is all we have, and if we play it right it's all we'll need.",
       "author": "Ann Richards"
+    },
+    {
+      "quote": "Don't eat all the raspberries.",
+      "author": "Michelangelo Da Vinci",
+      "id": 12
+    },
+    {
+      "quote": "Don't eat all the raspberries, part 2.",
+      "author": "Michelangelo Da Vinci's son",
+      "id": 13
+    },
+    {
+      "quote": "My name is Gooble Dee.",
+      "author": "Francis Bankon",
+      "id": 14
     }
   ],
   "likes": [
@@ -63,9 +73,104 @@
       "createdAt": 1558524356
     },
     {
-      "quoteId": 10,
-      "id": 2,
-      "createdAt": 1558524358
+      "quoteId": 2,
+      "id": 2
+    },
+    {
+      "quoteId": 2,
+      "id": 3
+    },
+    {
+      "quoteId": 3,
+      "id": 4
+    },
+    {
+      "quoteId": 8,
+      "id": 5
+    },
+    {
+      "quoteId": 13,
+      "id": 6
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1677209539,
+      "id": 7
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1677210036,
+      "id": 8
+    },
+    {
+      "quoteId": 2,
+      "createdAt": 1677210045,
+      "id": 9
+    },
+    {
+      "quoteId": 11,
+      "createdAt": 1677210286,
+      "id": 10
+    },
+    {
+      "quoteId": 5,
+      "createdAt": 1677210298,
+      "id": 11
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1677210453,
+      "id": 12
+    },
+    {
+      "quoteId": 14,
+      "createdAt": 1677210458,
+      "id": 13
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1677210576,
+      "id": 14
+    },
+    {
+      "quoteId": 7,
+      "createdAt": 1677210578,
+      "id": 15
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1677211149,
+      "id": 16
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1677211149,
+      "id": 17
+    },
+    {
+      "quoteId": 13,
+      "createdAt": 1677213006,
+      "id": 18
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1677213010,
+      "id": 19
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1677213010,
+      "id": 20
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1677213011,
+      "id": 21
+    },
+    {
+      "quoteId": 9,
+      "createdAt": 1677213011,
+      "id": 22
     }
   ]
 }
